@@ -5,8 +5,7 @@
 //Autor: Jean Dálbert
 //e-mail: dalbertmarcal@gmail.com
 
-//9) O programa abaixo implementa o cálculo do fatorial de um número informado pelo cliente
-//utilizando recursividade.
+//9) O programa abaixo implementa o cálculo do fatorial de um número informado pelo cliente.
 
 int FAT (int x);
 
