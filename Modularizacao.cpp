@@ -6,7 +6,8 @@
 //e-mail: dalbertmarcal@gmail.com
 
 //O programa abaixo é composto por dois módulos: o principal e a função soma(), que retorna a
-//soma de dois valores. 
+//soma de dois valores inteiros. 
+
 int soma(int p_n1, int p_n2);
 
 int main(){
