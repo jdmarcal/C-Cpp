@@ -5,12 +5,12 @@
 #include <math.h>
 
 
-//Autor: Jean Dálbert
+//Autor: Jean DÃ¡lbert
 //e-mail: dalbertmarcal@gmail.com
 
 // 1.2 Ler a idade de uma pessoa e informar a sua classe eleitoral.
-// a. Não-eleitor (abaixo de 16 anos)
-// b. Eleitor obrigatório (entre 18 e 65 anos)
+// a. NÃ£o-eleitor (abaixo de 16 anos)
+// b. Eleitor obrigatÃ³rio (entre 18 e 65 anos)
 // c. Eleitor facultativo (entre 16 e 18 e maior de 65 anos)
 
 
@@ -40,7 +40,4 @@ int main(){
     }	
   
   system("pause");
-  }  
- 
-
-//SALVAR ANTES DE COMPILAR!!!!!
+  }
