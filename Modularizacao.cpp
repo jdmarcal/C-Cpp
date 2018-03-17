@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <string.h>
 
-//Autor: Jean Dálbert
+//Autor: Jean DÃ¡lbert
 //e-mail: dalbertmarcal@gmail.com
 
-//O programa abaixo é composto por dois módulos: o principal e a função soma(), que retorna a
+//O programa abaixo Ã© composto por dois mÃ³dulos: o principal e a funÃ§Ã£o soma(), que retorna a
 //soma de dois valores. 
 int soma(int p_n1, int p_n2);
 
@@ -32,5 +32,3 @@ int soma(int p_n1, int p_n2){
 	valor = p_n1 + p_n2;
 	return valor;
 }
-
-//SALVAR ANTES DE COMPILAR!!!!!
