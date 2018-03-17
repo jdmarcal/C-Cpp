@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <string.h>
 
-//Autor: Jean Dálbert
+//Autor: Jean DÃ¡lbert
 //e-mail: dalbertmarcal@gmail.com
 
-//9) O programa abaixo implementa o cálculo do fatorial de um número informado pelo cliente
+//9) O programa abaixo implementa o cÃ¡lculo do fatorial de um nÃºmero informado pelo cliente
 //utilizando recursividade.
 
 int FAT (int x);
@@ -32,5 +32,3 @@ int FAT (int p_num){
 	    return p_num * FAT(p_num - 1);	
 	}
 }
-
-//SALVAR ANTES DE COMPILAR!!!!!
