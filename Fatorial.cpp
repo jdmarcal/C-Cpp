@@ -10,7 +10,7 @@
 int FAT (int x);
 
 int main(){
-  
+	
  int num, fatorial;
   
   printf("Digite um numero:");
@@ -22,6 +22,7 @@ int main(){
   system("pause");
   return 0;
 }
+
 int FAT (int p_num){
 	
 	if(p_num == 0){
